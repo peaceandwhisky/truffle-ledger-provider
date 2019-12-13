@@ -28,7 +28,7 @@
     "@ledgerhq/hw-transport-node-hid": "^4.24.0",
     "@ledgerhq/web3-subprovider": "^4.31.0",
     "ethereumjs-wallet": "^0.6.2",
-    "web3": "^0.20.6",
+    "web3": "^1.2.4",
     "web3-provider-engine": "^14.1.0"
   },
   "devDependencies": {
